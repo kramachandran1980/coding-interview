@@ -13,3 +13,4 @@ Home for coding interview solutions
  - Create a Word Document displaying the console output of each problem.
  - Please upload all the code and the word document output to this repository (https://github.com/kramachandran1980/coding-interview.git)
  - Please send me an email at kramachandran1@logitech.com  once you have uploaded the code and documents.
+ - If you have not used GIT before, let me know and you can alternatively send me a zip file with the code and the output.
