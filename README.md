@@ -9,6 +9,6 @@ Requirements:
  - Usage of OOP practices throughout all the problems.
 
 Submission Guidelines:
- - Please upload all the code to this repository ()
+ - Please upload all the code to this repository (https://github.com/kramachandran1980/coding-interview.git)
  - Solutions should be executable out of the box.
  - Word Document displaying the console output of each problem.
