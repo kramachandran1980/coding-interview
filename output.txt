@@ -1,0 +1,26 @@
+$g++ p1.cpp p2.cpp p3.cpp p4.cpp main.cpp -std=c++11
+$./a.out 
+
+Problem 1 sample --------------------
+unsorted array:7, 3, 2, 3, 6, -8, 2, 
+sorted array:  -8, 2, 2, 3, 3, 6, 7, 
+
+Problem 2 sample --------------------
+Testing atoi()
+0
+0
+700
+
+Testing itoa()
+-2147483647
+-234
+10e
+6d6
+
+Problem 3 sample --------------------
+1 2 3 1 
+4
+
+Problem 4 sample --------------------
+12345
+1235
