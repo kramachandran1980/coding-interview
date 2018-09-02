@@ -50,10 +50,10 @@ int main(int argc, char const *argv[]) {
 
     cout << endl << "Testing itoa()" << endl;
     char str[30];
-    cout << itoa(-2147483647, str, 10) << endl; //call to atoi from p2.h
-    cout << itoa(-234, str, 10) << endl; //call to atoi from p2.h
-    cout << itoa(270, str, 16) << endl; //call to atoi from p2.h
-    cout << itoa(1750, str, 16) << endl; //call to atoi from p2.h
+    cout << itoa(-2147483647, str, 10) << endl; //call to itoa from p2.h
+    cout << itoa(-234, str, 10) << endl; //call to itoa from p2.h
+    cout << itoa(270, str, 16) << endl; //call to itoa from p2.h
+    cout << itoa(1750, str, 16) << endl; //call to itoa from p2.h
     
     //Problem 3 sample --------------------
     cout << endl << "Problem 3 sample --------------------" << endl;
